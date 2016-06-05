@@ -69,6 +69,7 @@ echo "=================== VPN ===================="
 echo "============================================"
 $tool_install libcurl3 network-manager-openconnect
 $tool_install lib32z1 lib32ncurses5
+$tool_install network-manager-openconnect-gnome
 
 echo "============================================"
 echo "================ Pandaboard ================"
