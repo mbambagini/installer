@@ -1,3 +1,3 @@
-= Installer =
+== Installer ==
 
-This repo contains a script that install the basic software on Debian machines
+This repo contains script(s) to install the basic software on Debian machines
