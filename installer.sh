@@ -52,6 +52,7 @@ echo "============================================"
 echo "=================== Mbed ==================="
 echo "============================================"
 $tool_install python-colorama python3-colorama python-jinja2
+$tool_install python-prettytable python3-prettytable
 $tool_install gcc-arm-none-eabi gdb-arm-none-eabi
 $tool_install putty
 
