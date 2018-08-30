@@ -47,6 +47,7 @@ echo "================== Kernel =================="
 echo "============================================"
 $tool_install build-essential fakeroot kernel-package
 $tool_install u-boot-tools zlib1g-dev libncurses5-dev
+$tool_install bison flex pkg-config
 
 echo "============================================"
 echo "=================== Mbed ==================="
